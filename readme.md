@@ -1,0 +1,1 @@
+Playing around with RS codes and modular math
